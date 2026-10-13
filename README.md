@@ -8,7 +8,7 @@
 **Data Science · Analytics · Visualization**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)](https://rifky-henry-ferdianto.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2)](https://linkedin.com/in/henryferdianto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2)](https://www.linkedin.com/in/rifky-henry-ferdianto-38b530216/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335)](mailto:rifkyhenryferdianto123@gmail.com)
 
 ---
@@ -63,7 +63,7 @@ Saya data analyst dengan fokus pada **mengubah data mentah menjadi insight yang 
 
 Saya terbuka untuk diskusi tentang data, analisis, atau peluang kolaborasi. Jangan ragu untuk menghubungi saya.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2)](https://linkedin.com/in/henryferdianto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2)](https://www.linkedin.com/in/rifky-henry-ferdianto-38b530216/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335)](mailto:rifkyhenryferdianto123@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://rifky-henry-ferdianto.vercel.app/)
 
